@@ -1,0 +1,126 @@
+# Copyright (C) 2009 ihagaki.com
+# This file is distributed under the same license as the HGK Feedback Form package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: HGK Feedback Form 1.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/hgk-feedback-form\n"
+"POT-Creation-Date: 2009-09-14 02:26-0700\n"
+"PO-Revision-Date: 2009-12-05 16:00-0800\n"
+"Last-Translator: ihagaki <support (at) ihagaki (dot) com>\n"
+"Language-Team: ihagaki <support (at) ihagaki (dot) com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: hgk-feedback-form.php:21
+msgid "johndoe@gmail.com"
+msgstr ""
+
+#: hgk-feedback-form.php:22
+msgid "New Feedback"
+msgstr ""
+
+#: hgk-feedback-form.php:23
+msgid "Thanks for your feedback!"
+msgstr ""
+
+#: hgk-feedback-form.php:24
+msgid "Please fill in the required fields."
+msgstr ""
+
+#: hgk-feedback-form.php:39 hgk-feedback-form.php:59
+msgid "HGK Feedback Form Options"
+msgstr ""
+
+#. #-#-#-#-#  hgkff.pot (HGK Feedback Form 1.0)  #-#-#-#-#
+#. Plugin Name of an extension
+#: hgk-feedback-form.php:39
+msgid "HGK Feedback Form"
+msgstr ""
+
+#: hgk-feedback-form.php:65
+msgid " in posts and pages will be replaced with the feedback form"
+msgstr ""
+
+#: hgk-feedback-form.php:68
+msgid "Recipient e-mail:"
+msgstr ""
+
+#: hgk-feedback-form.php:72
+msgid ""
+"E-mail address where feedback form content will be sent to. If left blank, "
+"the blog's admin email is used"
+msgstr ""
+
+#: hgk-feedback-form.php:75
+msgid "E-mail subject:"
+msgstr ""
+
+#: hgk-feedback-form.php:80
+msgid "Success message:"
+msgstr ""
+
+#: hgk-feedback-form.php:84
+msgid "Message to display when form is successfully submitted"
+msgstr ""
+
+#: hgk-feedback-form.php:87
+msgid "Error message:"
+msgstr ""
+
+#: hgk-feedback-form.php:91
+msgid ""
+"Message to display when user input errors are detected (for instance, empty "
+"required fields)"
+msgstr ""
+
+#: hgk-feedback-form.php:96
+msgid "Save Changes"
+msgstr ""
+
+#: hgk-feedback-form.php:126
+msgid "not specified"
+msgstr ""
+
+#: hgk-feedback-form.php:145
+msgid "Return"
+msgstr ""
+
+#: hgk-feedback-form.php:153
+msgid "Name"
+msgstr ""
+
+#: hgk-feedback-form.php:153 hgk-feedback-form.php:155
+msgid "required"
+msgstr ""
+
+#: hgk-feedback-form.php:155
+msgid "Mail"
+msgstr ""
+
+#: hgk-feedback-form.php:157
+msgid "Website"
+msgstr ""
+
+#: hgk-feedback-form.php:159
+msgid "Submit Comment"
+msgstr ""
+
+#. Plugin URI of an extension
+msgid "http://www.ihagaki.com/wordpress/hgk-feedback-form-plugin/"
+msgstr ""
+
+#. Description of an extension
+msgid ""
+"Drop-in feedback / contact form for your WordPress blog. Works for pages and "
+"posts."
+msgstr ""
+
+#. Author of an extension
+msgid "ihagaki.com"
+msgstr ""
+
+#. Author URI of an extension
+msgid "http://www.ihagaki.com"
+msgstr ""

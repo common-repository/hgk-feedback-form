@@ -1,0 +1,123 @@
+# Copyright (C) 2009 ihagaki.com
+# This file is distributed under the same license as the HGK Feedback Form package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: HGK Feedback Form 1.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/hgk-feedback-form\n"
+"POT-Creation-Date: 2009-09-14 02:26-0700\n"
+"PO-Revision-Date: 2009-12-05 16:11-0800\n"
+"Last-Translator: ihagaki <support (at) ihagaki (dot) com>\n"
+"Language-Team: ihagaki <support (at) ihagaki (dot) com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: hgk-feedback-form.php:21
+msgid "johndoe@gmail.com"
+msgstr "juanperez@tucorreo.com"
+
+#: hgk-feedback-form.php:22
+msgid "New Feedback"
+msgstr "Nuevo Mensaje"
+
+#: hgk-feedback-form.php:23
+msgid "Thanks for your feedback!"
+msgstr "Gracias por su mensaje!"
+
+#: hgk-feedback-form.php:24
+msgid "Please fill in the required fields."
+msgstr "Por favor, llene todos los blancos."
+
+#: hgk-feedback-form.php:39
+#: hgk-feedback-form.php:59
+msgid "HGK Feedback Form Options"
+msgstr "Opciones para la Forma de Contacto HGK (HGK Feedback Form)"
+
+#. #-#-#-#-#  hgkff.pot (HGK Feedback Form 1.0)  #-#-#-#-#
+#. Plugin Name of an extension
+#: hgk-feedback-form.php:39
+msgid "HGK Feedback Form"
+msgstr "HGK Feedback Form"
+
+#: hgk-feedback-form.php:65
+msgid "in posts and pages will be replaced with the feedback form"
+msgstr "En las paginas y mensajes, sera remplazado por la forma de contacto."
+
+#: hgk-feedback-form.php:68
+msgid "Recipient e-mail:"
+msgstr "Correo donde sera recibido:"
+
+#: hgk-feedback-form.php:72
+msgid "E-mail address where feedback form content will be sent to. If left blank, the blog's admin email is used"
+msgstr "Correo donde el contenido de la forma de contacto sera recibido. Si se deja en blanco, el correo del administrador del Blog sera usado."
+
+#: hgk-feedback-form.php:75
+msgid "E-mail subject:"
+msgstr "Asunto del correo:"
+
+#: hgk-feedback-form.php:80
+msgid "Success message:"
+msgstr "Mensaje de envio exitoso:"
+
+#: hgk-feedback-form.php:84
+msgid "Message to display when form is successfully submitted"
+msgstr "Mensaje a ser mostrado cuando la forma es enviada exitosamente."
+
+#: hgk-feedback-form.php:87
+msgid "Error message:"
+msgstr "Mensaje de error:"
+
+#: hgk-feedback-form.php:91
+msgid "Message to display when user input errors are detected (for instance, empty required fields)"
+msgstr "Mensaje a ser rmostrado cuando sean detectados errores por parte del usuario (como dejar blancos sin llenar por ejemplo).\""
+
+#: hgk-feedback-form.php:96
+msgid "Save Changes"
+msgstr "Guardar Cambios"
+
+#: hgk-feedback-form.php:126
+msgid "not specified"
+msgstr "no especificado"
+
+#: hgk-feedback-form.php:145
+msgid "Return"
+msgstr "Regresar"
+
+#: hgk-feedback-form.php:153
+msgid "Name"
+msgstr "Nombre"
+
+#: hgk-feedback-form.php:153
+#: hgk-feedback-form.php:155
+msgid "required"
+msgstr "requerido"
+
+#: hgk-feedback-form.php:155
+msgid "Mail"
+msgstr "Correo"
+
+#: hgk-feedback-form.php:157
+msgid "Website"
+msgstr "Sitio web"
+
+#: hgk-feedback-form.php:159
+msgid "Submit Comment"
+msgstr "Enviar Mensaje"
+
+#. Plugin URI of an extension
+msgid "http://www.ihagaki.com/wordpress/hgk-feedback-form-plugin/"
+msgstr "http://www.ihagaki.com/wordpress/hgk-feedback-form-plugin/"
+
+#. Description of an extension
+msgid "Drop-in feedback / contact form for your WordPress blog. Works for pages and posts."
+msgstr "Forma de Contacto de insercion para tu blog WordPress.  Trabaja en las paginas y mensajes."
+
+#. Author of an extension
+msgid "ihagaki.com"
+msgstr "ihagaki.com"
+
+#. Author URI of an extension
+msgid "http://www.ihagaki.com"
+msgstr "http://www.ihagaki.com"
+
